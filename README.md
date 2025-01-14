@@ -1,5 +1,5 @@
 # Virtual_Assistant
-This is a Virtual Assistant created by me, Antonisvar and HliasUniwa for a university project in the course of Human-Computer Interaction.
+This is a Virtual Assistant created by me, Grandvx and HliasUniwa for a university project in the course of Human-Computer Interaction.
 
 ## Description:
 The topic of this project is the creation of an interface system for a virtual personal assistant application.
@@ -32,3 +32,4 @@ The application will be accompanied by the following:
 1) A concise User Manual with detailed screenshots
 2) A concise Application Analysis and Design Manual (Technical Manual).
 3) On-line help (provided by running the application).
+
